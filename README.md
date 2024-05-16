@@ -19,6 +19,7 @@ This repository contains a web application developed using React.js, aimed at ef
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies using `npm install`.
-3. Run the application using `npm start`.
+3. To start the server navigate to Backend folder and run `npm start`.
+4. To run the webapp navigate frontend and run `npm start`.
 
 Feel free to explore the code and contribute to this project! If you have any questions or need further assistance, don't hesitate to reach out. 🚀
