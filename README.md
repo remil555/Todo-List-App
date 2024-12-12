@@ -22,4 +22,7 @@ This repository contains a web application developed using React.js, aimed at ef
 3. To start the server navigate to Backend folder and run `npm start`.
 4. To run the webapp navigate frontend and run `npm start`.
 
+   ![image](https://github.com/user-attachments/assets/db55fbd9-fb67-4a74-89da-46fc50b62bd6)
+
+
 Feel free to explore the code and contribute to this project! If you have any questions or need further assistance, don't hesitate to reach out. 🚀
